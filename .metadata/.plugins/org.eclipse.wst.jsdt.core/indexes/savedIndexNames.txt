@@ -1,0 +1,5 @@
+INDEX VERSION 1.4+C:\Users\coco\Desktop\Folder\IT\spring\kokoa_WorkSpace\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+1771060874.index
+1038450845.index
+473697625.index
+1979995149.index

@@ -1,0 +1,5 @@
+INDEX VERSION 1.131
+C:\Users\coco\Desktop\Folder\IT\spring\kokoa_WorkSpace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3320454028.index
+\kokoaProject\src\main\java
+C:\Users\coco\Desktop\Folder\IT\spring\kokoa_WorkSpace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2845793810.index
+\kokoaProject\src\main\java
